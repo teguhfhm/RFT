@@ -1,1 +1,23 @@
+In this tutorial, you will learn the fundamental concepts of the Web UI Test, such as recording a test, adding a verification point, abstracting data by using data pool, adding a loop, running a test and a compound test, and viewing test results.
+In the Web UI Testing perspective, you record tests from web applications. It gives you a recording and natural language scripting environment to test browser applications that use HTML5 and JQuery. You can test on Internet Explorer, Mozilla Firefox, Google Chrome, and Safari browsers. a Web application includes many user scenarios. For example, on an e-commerce website many users only browse the products, some of the users sign in and add products to the cart, and a few of them purchase the products and sign out of the web site.
 
+In this tutorial, you will learn how to record a test scenario on the web application and generate the test, modify the test script, run the test, and view results. You will use http://www.ibm.com/software as the application under test.
+
+
+**Learning objectives:**
+
+1. Record a test
+1. Adding a verification point
+1. Running the test
+1. View the test results
+1. Modularize the test script
+1. Abstract data by using a data pool
+1. Associate the data pool with the test
+1. Run multiple test scripts in a sequence
+1. Add a loop
+
+Assumptions
+
+The tutorial assumes that you have installed Rational® Functional Tester 9.2 or newer. For information about the supported platforms, see the System Requirements documentation https://www.ibm.com/software/reports/compatibility/clarity/softwareReqsForProduct.html. For information about product installation, see the Installing.
+
+Be sure to start Rational Functional Tester on a new workspace.
